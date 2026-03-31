@@ -9,7 +9,7 @@ Ce projet est une introduction au développement Android. L'application affiche 
 
 ## Démo Vidéo
 *(Ajoutez ici le lien vers votre vidéo ou un GIF de démonstration)*
-![Capture d'écran de l'application](app/src/main/res/drawable/demo_preview.png)
+https://github.com/ABDONOKRA/developementmobile-lab1x/issues/1
 
 ## Composants UI utilisés
 *   `LinearLayout` : Pour l'organisation verticale des éléments.
